@@ -1,74 +1,120 @@
-<p align="left"><b><terminal>🔴 🟡 🟢</terminal></b></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC2020&background=000000&random=false&width=435&lines=IM+FARHAN+MUH+TASIM+IM+HERE++%F0%9F%A7%90;YES+IM+%7B%F0%9F%98%8A-%F0%9F%91%8B-%F0%9F%98%A9-%F0%9F%98%97-%E2%98%BA-%F0%9F%98%89-%F0%9F%98%AC-%F0%9F%A5%B6-%F0%9F%A7%90%7D" alt="Typing SVG" /></a>
-<h1 align="center">Hi 👋, I'm FARHAN MUH TASIM</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img align="right" alt="Coding" width="400" src="https://b.top4top.io/p_2835y06rp0.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gtajisan&label=Profile%20views&color=0e75b6&style=flat" alt="gtajisan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/jisangta" target="blank"><img src="https://img.shields.io/twitter/follow/jisangta?logo=twitter&style=for-the-badge" alt="jisangta" /></a> </p>
-
-- 🌱 I’m currently learning **react negative**
-
-- 💬 Ask me about **Android.MORE**
-
-- 📫 How to reach me **ffjisan804@gmail.com**
-- 🤧 important tool **https://github.com/Gtajisan/Toffee-channel-bypass**
-
-- ⚡ Fun fact **IM A Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jisangta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jisangta" height="30" width="40" /></a>
-<a href="https://fb.com/farhan muh tasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan muh tasim" height="30" width="40" /></a>
-<a href="https://instagram.com/jisangta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jisangta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zerox-farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zerox-farhan" height="30" width="40" /></a>
-<a href="https://discord.gg/Farhan_muh_tasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Farhan_muh_tasim" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Gtajisan&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Farhan 👋</h1>
+<p align="center">🚀 Backend Developer | ☁️ Cloud Tools Enthusiast | 🎯 Always Learning</p>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const Farhan = {
+  alias: "Gtajisan",
+  fullName: "Farhan Muh Tasim",
+  age: 17,
+  location: {
+    country: "🇧🇩 Bangladesh",
+    city: "Chattagram"
+  },
+  education: {
+    background: "Commerce Student",
+    institute: "Private Candidate"
+  },
+  profession: "Backend Developer",
+  skills: [
+    "Node.js", "Express", "MongoDB", "Go", "Python", "Firebase", "Bash"
+  ],
+  learning: [
+    "TypeScript", "CI/CD", "OAuth2", "Reverse Engineering"
+  ],
+  projects: [
+    "Messenger Bots", "Firmware Tools", "Cloud API Systems"
+  ],
+  interests: ["Cybersecurity", "Cloud Deployment", "IoT Experiments"],
+  socials: {
+    website: "https://gtajisan.github.io/Web-view/?raw=true",
+    github: "https://github.com/Gtajisan",
+    linkedin: "https://linkedin.com/in/Gtajisan",
+    youtube: "https://youtube.com/@zerox-farhan?si=HOQ23EQwMoIh7Tex"
+  }
+}
+````
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gtajisan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gtajisan&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtajisan&layout=donut&theme=dark" alt="Top Languages" />
+  <a href="https://www.facebook.com/share/1NhLW9YoAD/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/frn_prime">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/Gtajisan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@zerox-farhan?si=HOQ23EQwMoIh7Tex">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/Gtajisan">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gtajisan&theme=dark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,go,php,python,kotlin,bash&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb,firebase,sqlite,gcp,azure,cloudflare,heroku,linux&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ps&theme=dark" />
 </p>
 
 ---
 
-### 🔝 Top Repositories
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Gtajisan/your-project-1" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gtajisan&repo=your-project-1&theme=dark" alt="Your Project 1" />
-  </a>
-  <a href="https://github.com/Gtajisan/your-project-2" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gtajisan&repo=your-project-2&theme=dark" alt="Your Project 2" />
-  </a>
-  <a href="https://github.com/Gtajisan/your-project-3" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gtajisan&repo=your-project-3&theme=dark" alt="Your Project 3" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gtajisan&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gtajisan&theme=midnight-purple&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtajisan&layout=donut-vertical&theme=midnight-purple&hide_border=false" />
 </p>
 
 ---
 
-### 👀 Total profile visitors
-[![](https://count.getloli.com/get/@Gtajisan?theme=rule34)](https://github.com/Gtajisan)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gtajisan&theme=gruvbox&margin-w=10&no-bg=true&row=1&column=8" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Gtajisan/FARHAN-Shot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gtajisan&repo=FARHAN-Shot&theme=midnight-purple" />
+  </a>
+</p>
+
+---
+
+## 📈 Visitor Counter
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Gtajisan?theme=moebooru" />
+</p>
+```
+
+---
 
